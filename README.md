@@ -12,8 +12,7 @@
 
 
 ## Technical Skills:
-### ECE Continuum’s Joy of Coding,
-### Electrical and Computer Engineering at the University of Michigan
+### ECE Continuum’s Joy of Coding, Electrical and Computer Engineering at the University of Michigan
   -	Used Python to understand how to power apps
     
 ### Inspirit AI Scholars Program
