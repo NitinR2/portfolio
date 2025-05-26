@@ -1,4 +1,4 @@
-# High School Junior
+# High School Junior, Computer Science Moderator, Senior Tutor
 
 #### Technical Skills: Python, Java, OOPS Concepts
 
@@ -10,8 +10,10 @@
 - Music: Concert Strings, Symphonic Strings, Chamber Orchestra, Metea Valley Symphonic Orchestra 
 -	Elective Language: Spanish 2, Spanish 3, and Spanish 4
 
+
 ## Technical Skills:
-### ECE Continuum’s Joy of Coding, Electrical and Computer Engineering at the University of Michigan
+### ECE Continuum’s Joy of Coding,
+### Electrical and Computer Engineering at the University of Michigan
   -	Used Python to understand how to power apps
     
 ### Inspirit AI Scholars Program
@@ -20,6 +22,7 @@
     
 ### CodeWizardsHQ
   -	Programming with Python, Webpages with HTML, CSS, JavaScript, and Capstone 1 on Virtual Reality 
+
 
 ## Certifications:
 -	Introductions to Statistics, Stanford University - Dec 2024 
