@@ -10,6 +10,15 @@
 - Music: Concert Strings, Symphonic Strings, Chamber Orchestra, Metea Valley Symphonic Orchestra 
 -	Elective Language: Spanish 2, Spanish 3, and Spanish 4
 
+## TECHNICAL SKILLS
+###ECE Continuum’s Joy of Coding, Electrical and Computer Engineering at the University of Michigan
+-	Used Python to understand how to power apps such as Snapchat and Instagram.
+###Inspirit AI Scholars Program
+-	Identified distracted drivers using Computer Vision models
+-	Applied data analytical skills to cleanse and visualize the data.
+###CodeWizardsHQ
+-	Programming with Python, Webpages with HTML, CSS, JavaScript, and Capstone 1 on Virtual Reality 
+
 ## Certifications:
 -	Introductions to Statistics, Stanford University - Dec 2024 
 -	Google Data Analytics Professional Certificate - Jun 2024
