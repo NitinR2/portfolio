@@ -12,12 +12,12 @@
 
 ## TECHNICAL SKILLS:
 ### ECE Continuum’s Joy of Coding, Electrical and Computer Engineering at the University of Michigan
--	Used Python to understand how to power apps.
+  -	Used Python to understand how to power apps
 ### Inspirit AI Scholars Program
--	Identified distracted drivers using Computer Vision models
--	Applied data analytical skills to cleanse and visualize the data.
+  -	Identified distracted drivers using Computer Vision models
+  -	Applied data analytical skills to cleanse and visualize the data
 ### CodeWizardsHQ
--	Programming with Python, Webpages with HTML, CSS, JavaScript, and Capstone 1 on Virtual Reality 
+  -	Programming with Python, Webpages with HTML, CSS, JavaScript, and Capstone 1 on Virtual Reality 
 
 ## Certifications:
 -	Introductions to Statistics, Stanford University - Dec 2024 
