@@ -16,8 +16,11 @@
   -	Used Python to understand how to power apps
     
 ### Inspirit AI Scholars Program
-  -	Identified distracted drivers using Computer Vision models
-  -	Applied data analytical skills to cleanse and visualize the data
+  -	Implemented a successful project to identify distracted drivers using Computer Vision models using Python and associated AI libraries. 
+  - This project helped me to understand the data science pipeline for a real-world problem.
+  - I built an initial AI model by applying data analysis skills to cleanse and visualize the data
+  - Constantly improved the AI model by interpreting the results to the desired output
+  - Successfully delivered a final presentation with the outcome.
     
 ### CodeWizardsHQ
   -	Programming with Python, Webpages with HTML, CSS, JavaScript, and Capstone 1 on Virtual Reality 
