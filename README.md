@@ -1,4 +1,4 @@
-# High School Junior, Computer Science Moderator, Senior Tutor
+# High School Senior, Computer Science Moderator, Senior Tutor, Dialogue Co-President
 
 #### Technical Skills: Python, Java, OOPS Concepts
 
