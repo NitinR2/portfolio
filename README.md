@@ -14,7 +14,7 @@
 
 ## Projects:
 
-### Schoolhouse. World   President, Computer Science Moderator, and Senior Tutor	     
+### Schoolhouse. World   (Dialogue President, Computer Science Moderator, and Senior Tutor)	     
 •	Provided 200+ tutoring hours in STEM subjects for 350+ students from 58+ countries
 •	Received exceptional feedback from students (1000+ positive ratings, 550+ super helpful ratings)
 •	Evaluated 100+ Computer Science student applications and posted 50+ posts on CS related topics
